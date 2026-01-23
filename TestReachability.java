@@ -1,3 +1,5 @@
+/* WAP to test a URL is reachable within 2 seconds */
+
 import java.net.InetAddress;
 
 public class TestReachability {
